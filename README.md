@@ -1,4 +1,4 @@
-# Parallel coordinates plot for clinically relevant bacteria
+# Clinically relevant bacteria
 
 ## Background
 Here, I use R ggplot / ggparallel to plot characteristics of clinically relevant bacteria.
